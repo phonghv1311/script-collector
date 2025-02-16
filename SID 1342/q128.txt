@@ -1,0 +1,152 @@
+	[ ソニー FE（フルサイズEマウント） ズームレンズ]
+1	FE 12-24mm F4 G
+2	FE 12-24mm F2.8 GM
+3	FE 16-25mm F2.8 G
+4	FE PZ 16-35mm F4 G
+5	Vario-Tessar T* FE 16-35mm F4 ZA OSS
+6	FE 16-35mm F2.8 GM
+7	FE 16-35mm F2.8 GM II
+8	FE 20-70mm F4 G
+9	FE 24-50mm F2.8 G
+10	Vario-Tessar T* FE 24-70mm F4 ZA OSS
+11	FE 24-70mm F2.8 GM
+12	FE 24-70mm F2.8 GM II
+13	FE 24-105mm F4 G OSS
+14	FE 28-60mm F4-5.6
+15	FE 28-70mm F3.5-5.6 OSS
+16	FE PZ 28-135mm F4 G OSS
+17	FE 24-240mm F3.5-6.3 OSS
+18	FE 70-200mm F4 G OSS
+19	FE 70-200mm F4 Macro G OSS II
+20	FE 70-200mm F2.8 GM OSS
+21	FE 70-200mm F2.8 GM OSS II
+22	FE 70-300mm F4.5-5.6 G OSS
+23	FE 100-400mm F4.5-5.6 GM OSS
+24	FE 200-600mm F5.6-6.3 G OSS
+ 	[ ソニー E（APS-C Eマウント） ズームレンズ]
+25	E PZ 10-20mm F4 G
+26	E PZ 16-50mm F3.5-5.6 OSS
+27	E 16-55mm F2.8 G
+28	Vario-Tessar T＊ E 16-70mm F4 ZA OSS
+29	E PZ 18-105mm F4 G OSS
+30	E PZ 18-110mm F4 G OSS
+31	E 18-135mm F3.5-5.6 OSS
+32	E 55-210mm F4.5-6.3 OSS
+33	E 18-200mm F3.5-6.3 OSS LE
+34	E PZ 18-200mm F3.5-6.3 OSS
+35	E 70-350mm F4.5-6.3 G OSS
+ 	[ ソニー FE（フルサイズEマウント） 単焦点レンズ]
+36	FE 14mm F1.8 GM
+37	FE 20mm F1.8 G
+38	FE 24mm F2.8 G
+39	FE 24mm F1.4 GM
+40	FE 28mm F2
+41	Sonnar T* FE 35mm F2.8 ZA
+42	FE 35mm F1.8
+43	Distagon T* FE 35mm F1.4 ZA
+44	FE 35mm F1.4 GM
+45	FE 40mm F2.5 G
+46	FE 50mm F2.5 G
+47	FE 50mm F2.8 Macro
+48	FE 50mm F1.8
+49	Planar T* FE 50mm F1.4 ZA
+50	FE 50mm F1.4 GM
+51	FE 50mm F1.2 GM
+52	Sonnar T* FE 55mm F1.8 ZA
+53	FE 85mm F1.8
+54	FE 85mm F1.4 GM
+55	FE 90mm F2.8 Macro G OSS
+56	FE 100mm F2.8 STF GM OSS
+57	FE 135mm F1.8 GM
+58	FE 300mm F2.8 GM OSS
+59	FE 400mm F2.8 GM OSS
+60	FE 600mm F4 GM OSS
+ 	[ ソニー E（APS-C Eマウント）  単焦点レンズ]
+61	E 11mm F1.8
+62	E 15mm F1.4 G
+63	E16mm F2.8
+64	E 20mm F2.8
+65	Sonnar T＊ E 24mm F1.8 ZA
+66	E 30mm F3.5 Macro
+67	E 35mm F1.8 OSS
+68	E 50mm F1.8 OSS
+ 	[ シグマ フルサイズEマウント ズームレンズ]
+69	14-24mm F2.8 DG DN
+70	16-28mm F2.8 DG DN
+71	24-70mm F2.8 DG DN
+72	24-70mm F2.8 DG DN II
+73	28-45mm F1.8 DG DN
+74	28-70mm F2.8 DG DN
+75	60-600mm F4.5-6.3 DG DN OS
+76	70-200mm F2.8 DG DN OS
+77	100-400mm F5-6.3 DG DN OS
+78	150-600mm F5-6.3 DG DN OS
+ 	[ シグマ APS-C Eマウントズームレンズ]
+79	10-18mm F2.8 DC DN
+80	18-50mm F2.8 DC DN
+ 	[ シグマ フルサイズEマウント 単焦点レンズ]
+81	14mm F1.4 DG DN
+82	15mm F1.4 DG DN DIAGONAL FISHEYE
+83	17mm F4 DG DN
+84	20mm F1.4 DG DN
+85	20mm F2 DG DN
+86	24mm F1.4 DG DN
+87	24mm F2 DG DN
+88	24mm F3.5 DG DN
+89	28mm F1.4 DG HSM
+90	35mm F1.2 DG DN
+91	35mm F1.4 DG DN
+92	35mm F2 DG DN
+93	40mm F1.4 DG HSM
+94	45mm F2.8 DG DN
+95	50mm F1.2 DG DN
+96	50mm F1.4 DG DN
+97	50mm F2 DG DN
+98	65mm F2 DG DN
+99	70mm F2.8 DG MACRO
+100	85mm F1.4 DG DN
+101	90mm F2.8 DG DN
+102	105mm F1.4 DG HSM
+103	105mm F2.8 DG DN MACRO
+104	135mm F1.8 DG HSM
+105	500mm F5.6 DG DN OS
+ 	[ シグマ APS-C Eマウント単焦点レンズ]
+106	16mm F1.4 DC DN
+107	23mm F1.4 DC DN
+108	30mm F1.4 DC DN
+109	56mm F1.4 DC DN
+ 	[ タムロン フルサイズEマウントズームレンズ]
+110	17-28mm F/2.8 Di III RXD
+111	17-50mm F/4 Di III VXD
+112	20-40mm F/2.8 Di III VXD
+113	28-75mm F/2.8 Di III VXD G2
+114	28-200mm F/2.8-5.6 Di III RXD
+115	35-150mm F/2-2.8 Di III VXD
+116	50-300mm F/4.5-6.3 Di III VC VXD
+117	50-400mm F/4.5-6.3 Di III VC VXD
+118	70-180mm F/2.8 Di III VC VXD G2
+119	70-180mm F/2.8 Di III VXD
+120	70-300mm F/4.5-6.3 Di III RXD
+121	150-500mm F/5-6.7 Di III VC VXD
+ 	[ タムロン APS-C Eマウントズームレンズ]
+122	11-20mm F/2.8 Di III-A RXD
+123	17-70mm F/2.8 Di III-A VC RXD
+124	18-200mm F/3.5-6.3 Di III VC
+125	18-300mm F/3.5-6.3 Di III-A VC VXD
+ 	[ タムロン フルサイズEマウント単焦点レンズ]
+126	20mm F/2.8 Di III OSD M1:2
+127	24mm F/2.8 Di III OSD M1:2
+128	35mm F/2.8 Di III OSD M1:2
+ 	[ その他　Eマウントレンズメーカー ]
+129	トキナー
+130	コシナ
+131	カールツァイス(Carl Zeiss) ※ソニー又はコシナで製造しているカールツァイス除く
+132	サムヤン (SAMYANG)
+133	銘匠光学 （TTArtisan）
+134	メイケ (Meike)
+135	アストロリ (AstrHori)
+136	ビルトロックス (Viltrox)
+137	LAOWA (Anhui ChangGeng Optical Technology)
+138	七工匠 (7Artisans)
+139	中一光学 (Zhong Yi Optics)
+140	その他
