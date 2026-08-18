@@ -157,6 +157,7 @@ window.scriptQ37 = function (e) {
     e.preventDefault();
   }
 };
+
 window.removeEventListener("keypress", window.customEnterSubmit.enterListener);
 window.addEventListener("keypress", window.scriptQ37);
 buttonClickQ37.addEventListener("click", function (e) {
