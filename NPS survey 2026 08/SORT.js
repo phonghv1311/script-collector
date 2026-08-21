@@ -4,6 +4,7 @@ if (element) {
     element.style.display = 'none';
 }
 
+const SORT_QF_MQF = 'SORT_QF_MQF';
 const SORT_QF = 'SORT_QF';
 async function callApiQuota() {
     const domain = 'https://api.collector.koeeru.com/v1/responses/quota/check'
@@ -47,9 +48,10 @@ const getCode = (data, quotas) => {
     if (validCodes.length === 0) return null;
 
     if (quotas && Array.isArray(quotas)) {
+
         // Map các code thoả mãn với data quota tương ứng
         const mappedCodes = validCodes.map(code => {
-            const quotaInfo = quotas.find(q => q.name === `QF_MQF_${code}`);
+            const quotaInfo = quotas.find(q => q.name === `${SORT_QF_MQF}_${code}`);
             return {
                 code: code,
                 current: quotaInfo ? quotaInfo.current : 0,
